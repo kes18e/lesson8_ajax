@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 10, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Keanu Snow)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Creating a movie search application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://kes18e.github.io/lesson8_ajax/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Utilizing Ajax to edit webpage)
+2. (How access and request an API)
+3. (Adding API to javascript file)
+4. (Understanding the process of URL request)
+5. (Adding additional web content)
